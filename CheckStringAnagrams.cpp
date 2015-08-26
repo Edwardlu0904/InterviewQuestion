@@ -1,9 +1,7 @@
 //
-//  main.cpp
-//  StringHandleQuestion
+//  Top 20 String Algorithm Questions from Coding Interviews
+//  (2) How to check if two Strings are anagrams of each other? 
 //
-//  Created by 聖宜 盧 on 2015/8/25.
-//  Copyright (c) 2015年 edward. All rights reserved.
 //
 
 #include <iostream>
