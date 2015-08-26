@@ -1,6 +1,6 @@
 //
-//  main.cpp
-//  StringHandleQuestion
+//  Top 20 String Algorithm Questions from Coding Interviews
+//  (1)How to Print duplicate characters from String?
 //
 //  Created by 聖宜 盧 on 2015/8/25.
 //  Copyright (c) 2015年 edward. All rights reserved.
