@@ -35,7 +35,7 @@ void printDuplicateChar(const char* str) {
 }
 
 void printDuplicateChar2(const char* str) {
-    int *countArray = new int[26];
+    int countArray[26];
     for (int i = 0; i < 26; i++) {
         *(countArray + i) = 0;
     }
